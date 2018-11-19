@@ -1,5 +1,7 @@
 # Linear spectral clustering superpixel
 
+# Superpixel Segmentation Using Linear Spectral Clustering
+
 Experiments and comparisons for review of the paper on LSC: 
 Superpixel Segmentation using Linear Spectral Clustering
 https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Li_Superpixel_Segmentation_Using_2015_CVPR_paper.pdf
