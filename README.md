@@ -1,4 +1,4 @@
-# Linear-Spectral-Cluster-Superpixel
+# Linear spectral clustering superpixel
 
 Experiments and comparisons for review of the paper on LSC: 
 Superpixel Segmentation using Linear Spectral Clustering
